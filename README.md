@@ -1,4 +1,4 @@
-# Alan-AI News Reader - Voice Assistant 
+# Alan AI News Reader - Voice Assistant 
 This is a voice controlled React News Reader using Alan AI.
 Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications.
 
